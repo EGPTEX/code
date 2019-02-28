@@ -1,4 +1,3 @@
-# code
 pragma solidity >= 0.5.4 ;
 
 library SafeMath {
